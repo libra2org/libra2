@@ -1,8 +1,10 @@
-> **Note to readers:** On December 1, 2020, the Libra Association was renamed to Diem Association. The project repos are in the process of being migrated. All projects will remain available for use here until the migration to a new GitHub Organization is complete.
+## Libra2 - Enterprise Entension fork of Diem
 
-<a href="https://developers.diem.com">
-	<img width="200" src="./.assets/diem.png" alt="Diem Logo" />
-</a>
+We work on enterprise entensions and features of Diem (former Libra) project.
+
+Cheers~
+
+> **Note to readers:** On December 1, 2020, the Libra Association was renamed to Diem Association. The project repos are in the process of being migrated. All projects will remain available for use here until the migration to a new GitHub Organization is complete.
 
 ---
 
